@@ -10,7 +10,6 @@ Just access the backend/ folder and run:
 
 `python manage.py runserver`
 
-Then,to start the front-end local server, 
-Access the frontend/ folder on the root dir and run `npm start`
+Then,to start the front-end local server, access the frontend/ folder on the root dir and run `npm start`
 
 
