@@ -10,6 +10,8 @@ Just access the backend/ folder and run:
 
 `python manage.py runserver`
 
+PS: If django isn't found on the environment, just run `pipenv install django==2.1`
+
 Then,to start the front-end local server, access the frontend/ folder on the root dir and run `npm start`
 
 
