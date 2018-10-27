@@ -5,7 +5,9 @@ In order to run this whole thing, you need to be sure you have both Node.js and 
 
 To use this app, first run the backend API:
 Just access the backend/ folder and run:
+
 `pipenv shell`
+
 `python manage.py runserver`
 
 Then, start the front-end local server:
